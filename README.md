@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MichaelQuant4R
+- 👋 Hi, I’m @MichaelQuant4R, creator of [Holistic Python](https://www.holisticpython.com/holistic_code/code_notes/1)
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning docker, redux, microservices and blender 3D
 - 💞️ I’m looking to work as a full stack developer
