@@ -15,6 +15,7 @@
 - Heroku
 - Git
 - Python, PyPi
+- AWS S3
 - PostgreSQL
 - Blender
 
